@@ -13,8 +13,8 @@ By the end of this tutorial, you will be able to produce a nice visualization of
 
 ## STEP 1 - Input Table
 This step displays the raw STAAD.Pro design ratio data provided by the user in a `vkt.Table` component.
-![Input Table](.viktor-template\image1.png)
+![Input Table](.viktor-template/image1.png)
 
 ## STEP 2 - Table View
 This step showcases the processed STAAD.Pro data with a heatmap view for normalized ratios.
-![Table View](.viktor-template\image2.png)
+![Table View](.viktor-template/image2.png)
